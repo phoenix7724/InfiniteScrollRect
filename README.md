@@ -1,4 +1,4 @@
-# Loop Scroll Rect
+# Infinite Scroll Rect
 
 ## v1.04
 
